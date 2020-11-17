@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE feedback [
+   <!ELEMENT feedback (bikename,subject,date)>
+   <!ELEMENT bikename (#PCDATA)>
+    <!ELEMENT subject(#PCDATA)>
+   <!ELEMENT date (#PCDATA)>
+]>
+
+
+

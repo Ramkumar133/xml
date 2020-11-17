@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "feedback.xsl"?>
+<feedback>
+<bikename>BMW 310 </bikename>
+<subject>Good Ride !</subject>
+<date>20-11-2020</date>
+<bikename>RE Interceptor  </bikename>
+<subject> Got an Excellent experience 1</subject>
+<date>15-11-2020</date>
+<bikename>Honda</bikename>
+<subject>Best Service!</subject>
+<date>16-11-2020</date>
+</feedback>

@@ -1,0 +1,31 @@
+{
+   "bikename": [
+      "BMW 310",
+      "RE Interceptor",
+      "Honda"
+   ],
+   "amount": [
+      "250/hr",
+      "180/hr",
+      "450/hr"
+   ],
+   "duration": [
+      "2 days",
+      "1 day",
+      "2 days"
+   ],
+   "pickloc": [
+      "kk Nagar",
+      "TVS Nagar",
+      "APR Nagar"
+   ],
+   "date": [
+      "20-11-2020",
+      "15-11-2020",
+      "16-11-2020"
+   ],
+   "droploc": [
+      "Othakadai",
+      "Krishnan Nagar"
+   ]
+}

@@ -1,0 +1,11 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="feedback">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded" minOccurs="0">
+        <xs:element type="xs:string" name="bikename"/>
+        <xs:element type="xs:string" name="subject"/>
+        <xs:element type="xs:string" name="date"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

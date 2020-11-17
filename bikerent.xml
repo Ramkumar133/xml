@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "bikerent.xsl"?>
+<bikedetails>
+<bikename>BMW 310 </bikename>
+<amount>250/hr</amount>
+<duration>2 days</duration>
+<pickloc>kk Nagar</pickloc>
+<date>20-11-2020</date>
+<bikename>RE Interceptor  </bikename>
+<amount>180/hr</amount>
+<duration>1 day</duration>
+<pickloc>TVS Nagar</pickloc>
+<droploc>Othakadai</droploc>
+<date>15-11-2020</date>
+<bikename>Honda</bikename>
+<amount>450/hr</amount>
+<duration>2 days</duration>
+<pickloc>APR Nagar</pickloc>
+<droploc>Krishnan Nagar</droploc>
+<date>16-11-2020</date>
+</bikedetails>
